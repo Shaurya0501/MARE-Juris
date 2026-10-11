@@ -171,6 +171,3 @@ MARE-Juris is a research aid and does not provide legal advice. Always verify an
 
 ---
 
-## Author
-
-Chandler | [GitHub](#) | [LinkedIn](#)
